@@ -120,7 +120,7 @@ fn main() -> io::Result<()> {
     println!("暴力破解的结果: ");
     let result = solution(&result);
     for temp in result.iter().enumerate() {
-        println!("移位 {} 位, 解密结果 {}", temp.0, temp.1);
+        println!("第 {}次 破解结果 {}", temp.0, temp.1);
     }
     Ok(())
 }
