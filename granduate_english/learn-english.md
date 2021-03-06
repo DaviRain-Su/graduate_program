@@ -94,3 +94,11 @@ A projcet presented in English must be
 - Hardly a whisper of concenrn has been coiced.
 - He maded. 
 
+
+2. Rewrite and punctuate the following fable from Aesop's Fables.
+
+    A vixen was walking down a road one day and had four young cubs and a vixen met a lioness with a cub and a vixen started to boast about a vixen's family and said a vixen had four cubs and a lioness only had one cub and a lioness 
+    said a lioness only had one cub but one cub was a lion
+
+     *Rewrite*
+     
